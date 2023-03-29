@@ -1,0 +1,25 @@
+
+.imagen {
+    width: 20%;
+    display: block;
+    margin: 0px auto;
+
+}
+
+.texto {
+    display: block;
+    margin: 0px auto;
+}
+
+section  {
+    font-family: 'Noto Sans', sans-serif;
+    width: 700px;
+    border: 8px solid black;
+    margin: 0px auto;
+    height: auto;
+
+}
+
+body {
+    font-display: gray;
+}
